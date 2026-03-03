@@ -1,5 +1,7 @@
 ## Hi there 👋
+I'm Niya, a self-motivated game design graduate with experience in front-end web technologies, art and design.
 
+[Check out my art!](https://niyayates1.artstation.com/)
 
 
 ##  Languages and Tools 🛠️

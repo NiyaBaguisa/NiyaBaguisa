@@ -15,7 +15,7 @@ I'm Niya, a self-motivated game design graduate with experience in front-end web
 <hr>
 
 ##  🌱 I’m currently working on ...
-[Hop To It]([https://niyabaguisa.github.io/hopToIt/])
+[Hop To It](https://niyabaguisa.github.io/hopToIt/)
 
 
 <!--

@@ -9,15 +9,18 @@ I'm Niya, a self-motivated game design graduate with experience in front-end web
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,vscode,p5js,netlify,unity,unreal,ai,ae,psblender,"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,vscode,p5js,unity,unreal,ai,ae,psblender,"/>
 </p>
 
 <hr>
 
 ##  🌱 I’m currently working on ...
-[Hop To It](https://niyabaguisa.github.io/hopToIt/)
+[Donburi-Ramen Shop](https://github.com/NiyaBaguisa/Donburi)
 
 
+## 💬 I’m currently learning 
+- React
+- Mobile-first design
 <!--
 **NiyaBaguisa/NiyaBaguisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,5 @@
 ## Hi there 👋
-I'm Niya, a self-motivated game design graduate with experience in front-end web technologies, art and design.
-
-[Check out my art!](https://niyayates1.artstation.com/)
+I'm Niya, a game design graduate and front-end dev creating playful web experiences. 
 
 
 ##  Languages and Tools 🛠️
@@ -9,18 +7,18 @@ I'm Niya, a self-motivated game design graduate with experience in front-end web
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,vscode,p5js,unity,unreal,ai,ae,psblender,"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,vscode,p5js,unity,ai,"/>
 </p>
 
 <hr>
 
 ##  🌱 I’m currently working on ...
-[Donburi-Ramen Shop](https://github.com/NiyaBaguisa/Donburi)
+Sketching out ideas for a game based on my time living in Japan.
 
 
 ## 💬 I’m currently learning 
-- React
-- Mobile-first design
+[Advanced React - Meta](https://www.coursera.org/learn/advanced-react)
+
 <!--
 **NiyaBaguisa/NiyaBaguisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,3 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+

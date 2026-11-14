@@ -7,7 +7,7 @@ I'm Niya, a game design graduate and front-end dev creating playful web experien
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,vscode,p5js,unity,ai,"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vscode,p5js,unity,ai,"/>
 </p>
 
 <hr>
